@@ -10,17 +10,17 @@ A responsive one-page website for a fictional café, built as a portfolio sample
 
 ### Desktop
 
-![Hero section](screenshots/desktop-hero.jpg)
+![Hero section](screenshots/desktop-hero.png)
 
-![Menu section](screenshots/desktop-menu.jpg)
+![Menu section](screenshots/desktop-menu.png)
 
-![Contact and opening hours](screenshots/desktop-contact.jpg)
+![Contact and opening hours](screenshots/desktop-contact.png)
 
 ### Mobile
 
-![Mobile hero](screenshots/mobile-hero.jpg)
+![Mobile hero](screenshots/mobile-hero.png)
 
-![Mobile contact and opening hours](screenshots/mobile-contact.jpg)
+![Mobile contact and opening hours](screenshots/mobile-contact.png)
 
 ## What it includes
 
